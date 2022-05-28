@@ -1,0 +1,8 @@
+{
+  "identifier": "org.standardnotes.simple-task-editor-dev",
+  "name": "[SNExts] Simple Task Editor",
+  "content_type": "SN|Component",
+  "area": "editor-editor",
+  "version": "1.3.10",
+  "url": "https://snexts.github.io/simple-task-editor"
+}
